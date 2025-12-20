@@ -6,6 +6,7 @@ Data sorting and organizational project Excel-based
 - Tables
 - Filters
 - Sorting techniques
+- Graphs
 
 ## What This Project Shows
 - Data cleaning
